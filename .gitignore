@@ -1,0 +1,6 @@
+
+/.vscode
+/crash
+
+# Exclusion of compiled TS
+*.js
