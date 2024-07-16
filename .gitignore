@@ -4,3 +4,4 @@
 
 # Exclusion of compiled TS
 *.js
+!/LumenPanel/html/*.js
